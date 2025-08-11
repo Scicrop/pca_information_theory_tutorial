@@ -1,6 +1,5 @@
-# PCA + Information Theory for Business: A Practical Mini‑Tutorial
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5e5129a7-610f-443f-aaf5-80f85c773810" />
 This code/tutorial was first developed for the InfiniteStack of SciCrop and is now open-sourced as a SciCrop Academy initiative.
-
 
 **Goal.** Show how to use **Principal Component Analysis (PCA)** and **Information Theory** (Mutual Information and mRMR) to **reduce dimensionality** and **improve clarity** in predictive projects. The example predicts **life expectancy** from macro indicators (Gapminder).
 
